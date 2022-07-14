@@ -1,0 +1,13 @@
+We need to do that first part, work on stuff.
+
+So I'm going to do a quick demo.
+
+I made this folder, my first novel.
+
+I'm pretending I'm writing a novel.
+
+We have a git repository in here as we did it.
+
+We initialized it earlier.
+
+So I'm now pretending to sit down day one of writing my novel and I'm going to do some work.
